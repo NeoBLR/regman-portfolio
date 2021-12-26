@@ -1,5 +1,5 @@
 import { Center, Heading, Box } from '@chakra-ui/react'
-import Layout from '../layout/layout'
+import Layout from '../layout/layout.js'
 
 export default function News() {
   return (
